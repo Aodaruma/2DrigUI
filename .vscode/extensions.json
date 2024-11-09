@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-python.vscode-pylance",
         "ms-python.python",
-        "github.vscode-github-actions"
+        "github.vscode-github-actions",
+        "ms-python.black-formatter"
     ]
 }
